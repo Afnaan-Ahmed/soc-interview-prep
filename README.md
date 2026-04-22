@@ -53,6 +53,8 @@ Pull requests are welcome! If you have additional questions, corrections, or imp
 
 ## Contributors 
 
+[Yaseen Zaman](https://github.com/YaseenZaman1421)
+
 ---
 
 ## 📄 License
